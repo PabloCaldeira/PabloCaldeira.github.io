@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pablo Caldeira — IA, automação e suporte de TI</title>
+<meta name="description" content="Técnico de suporte e infraestrutura de TI e estudante de ADS no IFES. Automação com Python, SQL e IA aplicada a chamados, redes e SLA.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@500;700&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+<style>
+:root{--paper:#F5F7FA;--ink:#0F1B2D;--steel:#55657A;--line:#D5DCE5;--teal:#0E7C86;--teal-bg:#E3F2F3;--amber:#B26A00;--amber-bg:#FBEFD9}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--paper);color:var(--ink);font:400 1.0625rem/1.65 "Source Sans 3",system-ui,sans-serif}
+h1,h2,h3{font-family:Sora,"Source Sans 3",system-ui,sans-serif;line-height:1.2;margin:0}
+a{color:var(--teal)}
+a:focus-visible,button:focus-visible{outline:3px solid var(--teal);outline-offset:3px}
+.wrap{max-width:860px;margin:0 auto;padding:0 1.25rem}
+header.top{padding:1.1rem 0;border-bottom:1px solid var(--line)}
+header.top .wrap{display:flex;flex-wrap:wrap;gap:.6rem 1.5rem;justify-content:space-between;align-items:center}
+.brand{font:700 1.05rem Sora,sans-serif}
+nav a{margin-right:1.1rem;text-decoration:none;color:var(--steel);font-weight:600}
+nav a:hover{color:var(--teal)}
+.hero{padding:4rem 0 2.5rem}
+.hero h1{font-size:clamp(2rem,6vw,3.3rem);max-width:15em}
+.hero p{max-width:38em;color:var(--steel);font-size:1.15rem;margin:1.2rem 0 0}
+.cta{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.6rem}
+.btn{display:inline-block;padding:.7rem 1.2rem;border-radius:6px;font-weight:600;text-decoration:none;border:2px solid var(--ink)}
+.btn.main{background:var(--ink);color:#fff}
+.btn.alt{color:var(--ink)}
+.btn:hover{border-color:var(--teal)}
+section{padding:2.6rem 0;border-top:1px solid var(--line)}
+section>.wrap>h2{font-size:1.5rem;margin-bottom:1.4rem}
+/* demo */
+.demo{background:#fff;border:1px solid var(--line);border-radius:10px;padding:1.2rem}
+.steps{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.steps button{font:600 .98rem "Source Sans 3",sans-serif;padding:.5rem .9rem;border-radius:999px;border:1.5px solid var(--line);background:var(--paper);color:var(--ink);cursor:pointer}
+.steps button[aria-selected="true"]{background:var(--teal);border-color:var(--teal);color:#fff}
+.panel{min-height:7.5rem}
+.panel p{margin:.2rem 0 .6rem}
+.tag{display:inline-block;padding:.15rem .6rem;border-radius:4px;font-weight:600;font-size:.95rem;margin-right:.4rem}
+.tag.t{background:var(--teal-bg);color:var(--teal)}
+.tag.a{background:var(--amber-bg);color:var(--amber)}
+.note{font-size:.95rem;color:var(--steel);margin:.9rem 0 0}
+/* projects */
+.proj{padding:1.1rem 0 1.1rem 1.1rem;border-left:4px solid var(--amber);margin-bottom:1.2rem}
+.proj h3{font-size:1.15rem}
+.proj .st{font-weight:600;color:var(--amber);font-size:.95rem}
+.proj p{margin:.35rem 0 .4rem;max-width:40em}
+.stack{color:var(--steel);font-size:.98rem}
+/* timeline */
+.job{display:grid;grid-template-columns:9.5rem 1fr;gap:.3rem 1.5rem;margin-bottom:1.8rem}
+.job .when{color:var(--steel);font-weight:600}
+.job h3{font-size:1.1rem}
+.job .org{color:var(--steel);margin:.1rem 0 .5rem}
+.job ul,.plain{margin:0;padding-left:1.15rem}
+.job li,.plain li{margin-bottom:.3rem}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:2rem}
+.two h3{font-size:1.1rem;margin-bottom:.6rem}
+dl{margin:0}
+dt{font-weight:600;margin-top:.8rem}
+dd{margin:0;color:var(--steel)}
+.contact p{margin:.3rem 0}
+footer{padding:2rem 0 3rem;color:var(--steel);font-size:.95rem;border-top:1px solid var(--line)}
+@media (max-width:640px){.job{grid-template-columns:1fr}.two{grid-template-columns:1fr}.hero{padding-top:2.5rem}}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+</style>
+</head>
+<body>
+<header class="top"><div class="wrap">
+<span class="brand">Pablo Caldeira</span>
+<nav aria-label="Seções"><a href="#projetos">Projetos</a><a href="#experiencia">Experiência</a><a href="#formacao">Formação</a><a href="#competencias">Competências</a><a href="#contato">Contato</a></nav>
+</div></header>
+
+<main>
+<div class="wrap hero">
+<h1>Automatizo o que o suporte repete todo dia.</h1>
+<p>Sou técnico de suporte e infraestrutura de TI e estudante de Análise e Desenvolvimento de Sistemas no IFES. Uso Python, SQL e inteligência artificial para transformar tarefas manuais de suporte, redes e monitoramento em rotinas que rodam sozinhas.</p>
+<div class="cta">
+<a class="btn main" href="#projetos">Ver projetos</a>
+<a class="btn alt" href="Curriculo_Pablo_Caldeira_TI.pdf">Baixar currículo (PDF)</a>
+</div>
+</div>
+
+<section id="como-funciona"><div class="wrap">
+<h2>Como funciona a triagem de chamados</h2>
+<div class="demo">
+<div class="steps" role="tablist" aria-label="Etapas da automação">
+<button role="tab" aria-selected="true" data-i="0">1. Chamado</button>
+<button role="tab" aria-selected="false" data-i="1">2. Classificação</button>
+<button role="tab" aria-selected="false" data-i="2">3. Resposta sugerida</button>
+</div>
+<div class="panel" id="panel" role="tabpanel" aria-live="polite"></div>
+<p class="note">Exemplo ilustrativo do que o protótipo faz. O técnico revisa a resposta antes de enviar.</p>
+</div>
+</div></section>
+
+<section id="projetos"><div class="wrap">
+<h2>Projetos</h2>
+<article class="proj">
+<h3>Triagem de chamados com IA</h3>
+<span class="st">Protótipo</span>
+<p>Lê o texto de um chamado, classifica por tipo e prioridade e sugere a primeira resposta ao técnico.</p>
+<div class="stack">Python · API de LLM · Automação</div>
+<a href="https://github.com/PabloCaldeira/projetos-ia-automacao/tree/main/triagem-chamados-ia">Ver código no GitHub</a>
+</article>
+<article class="proj">
+<h3>Monitor de rede com alertas</h3>
+<span class="st">Protótipo</span>
+<p>Testa a conexão de equipamentos e câmeras IP e envia uma mensagem quando algum fica offline. Nasceu da minha rotina com CFTV e redes locais.</p>
+<div class="stack">Python · Redes · Alertas</div>
+<a href="https://github.com/PabloCaldeira/projetos-ia-automacao/tree/main/monitor-rede">Ver código no GitHub</a>
+</article>
+<article class="proj">
+<h3>Relatório automático de SLA</h3>
+<span class="st">Protótipo</span>
+<p>Consulta os chamados no banco de dados, calcula os prazos cumpridos e gera o relatório da semana sem montar planilha à mão.</p>
+<div class="stack">SQL · Python · Dados</div>
+<a href="https://github.com/PabloCaldeira/projetos-ia-automacao/tree/main/relatorio-sla">Ver código no GitHub</a>
+</article>
+</div></section>
+
+<section id="experiencia"><div class="wrap">
+<h2>Experiência</h2>
+<div class="job">
+<div class="when">01/2025 – 08/2025</div>
+<div>
+<h3>Agente de Prevenção e Perda (Monitoramento e Tecnologia)</h3>
+<div class="org">JET, Serra – ES</div>
+<ul>
+<li>Monitorei em tempo real a frota de patinetes e bicicletas elétricas por aplicativo de gestão e plataformas de geolocalização.</li>
+<li>Analisei coordenadas para localizar veículos em casos de perda de sinal, furto ou roubo, apoiando a recuperação.</li>
+<li>Orientei colaboradores no uso do aplicativo.</li>
+</ul>
+</div>
+</div>
+<div class="job">
+<div class="when">08/2024 – 10/2024</div>
+<div>
+<h3>Instalador e Reparador de Redes – Nível I (FTTH)</h3>
+<div class="org">Supernet Mais Telecomunicações, Vila Velha – ES</div>
+<ul>
+<li>Instalei e ativei internet por fibra óptica em clientes residenciais, configurando roteadores e ONT/ONU.</li>
+<li>Instalei e configurei câmeras de segurança, DVR e NVR, com passagem de cabos de rede e coaxiais.</li>
+</ul>
+</div>
+</div>
+<div class="job">
+<div class="when">08/2021 – 08/2023</div>
+<div>
+<h3>Assistente Administrativo e Suporte de TI</h3>
+<div class="org">Clube de Tiro de Vila Velha, Vila Velha – ES</div>
+<ul>
+<li>Prestei suporte técnico N1 e N2 a clientes e colaboradores.</li>
+<li>Realizei manutenção de computadores, da rede local que sustentava o sistema da empresa e do sistema de câmeras (CFTV).</li>
+</ul>
+</div>
+</div>
+</div></section>
+
+<section id="formacao"><div class="wrap">
+<h2>Formação e cursos</h2>
+<div class="two">
+<div>
+<h3>Graduação</h3>
+<p><strong>Tecnologia em Análise e Desenvolvimento de Sistemas (EaD)</strong><br>Instituto Federal do Espírito Santo (IFES)<br><span class="stack">08/2026 – previsão de conclusão: 2º semestre de 2028</span></p>
+</div>
+<div>
+<h3>Cursos complementares</h3>
+<ul class="plain">
+<li>Python com IA – Santander Open Academy (em andamento)</li>
+<li>Segurança da Informação – Santander Open Academy (10/2026 – previsão 01/2027)</li>
+<li>Santander Excel com IA e Claude – Santander Open Academy (em andamento)</li>
+</ul>
+</div>
+</div>
+</div></section>
+
+<section id="competencias"><div class="wrap">
+<h2>Competências</h2>
+<dl>
+<dt>Programação e dados</dt><dd>Python, SQL, JavaScript, HTML5, CSS3, Git e GitHub</dd>
+<dt>Automação e IA</dt><dd>Scripts de automação, integração com APIs de LLM, relatórios automatizados</dd>
+<dt>Suporte</dt><dd>Atendimento N1/N2, Service Desk, gestão de chamados, SLA, acesso remoto</dd>
+<dt>Sistemas e redes</dt><dd>Windows 10/11, Windows Server, Linux, redes locais (LAN), roteadores, ONT/ONU, fibra óptica, cabeamento</dd>
+<dt>Segurança eletrônica</dt><dd>CFTV, câmeras IP e analógicas, DVR e NVR</dd>
+</dl>
+</div></section>
+
+<section id="contato"><div class="wrap contact">
+<h2>Contato</h2>
+<p>Busco estágio ou vaga júnior em suporte técnico, infraestrutura, automação com IA ou desenvolvimento.</p>
+<p><a href="mailto:pablow2.caldeiras@gmail.com">pablow2.caldeiras@gmail.com</a></p>
+<p>(27) 98882-7519 · Vila Velha – ES</p>
+<p><a href="https://linkedin.com/in/pablo-da-silva-caldeira-5321a7321">LinkedIn</a> · <a href="https://github.com/PabloCaldeira">GitHub</a></p>
+</div></section>
+</main>
+
+<footer><div class="wrap">Pablo da Silva Caldeira</div></footer>
+
+<script>
+(function(){
+var data=[
+'<p><strong>Texto recebido do usuário:</strong></p><p>“Não consigo acessar o sistema desde cedo. Já reiniciei o computador e continua dando erro de senha.”</p>',
+'<p><span class="tag t">Tipo: acesso e credenciais</span><span class="tag a">Prioridade: alta</span></p><p>Motivo: o usuário está sem acesso ao sistema de trabalho.</p>',
+'<p><strong>Sugestão para o técnico:</strong></p><p>“Olá! Vamos redefinir sua senha e liberar o acesso. Pode confirmar seu usuário e se a mensagem de erro fala de senha incorreta ou de conta bloqueada?”</p>'
+];
+var panel=document.getElementById('panel');
+var tabs=document.querySelectorAll('.steps button');
+function show(i){
+panel.innerHTML=data[i];
+tabs.forEach(function(b,n){b.setAttribute('aria-selected',n===i?'true':'false');});
+}
+tabs.forEach(function(b){b.addEventListener('click',function(){show(+b.dataset.i);});});
+show(0);
+})();
+</script>
+</body>
+</html>
