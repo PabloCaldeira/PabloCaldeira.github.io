@@ -1,125 +1,959 @@
-%PDF-1.4
-%“Œ‹ž ReportLab Generated PDF document (opensource)
+%PDF-1.3
+%âãÏÓ
 1 0 obj
 <<
-/F1 2 0 R /F2 3 0 R
+/PageMode /UseNone
+/Pages 2 0 R
+/Type /Catalog
 >>
 endobj
 2 0 obj
 <<
-/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+/Count 2
+/Kids [ 3 0 R 12 0 R ]
+/Type /Pages
 >>
 endobj
 3 0 obj
 <<
-/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ]
+/Contents 15 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 4 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (mailto:pablow2.caldeiras@gmail.com)
->> /Border [ 0 0 0 ] /Rect [ 197.946 746.0898 320.112 756.8898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (mailto\072pablow2\056caldeiras\100gmail\056com)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 197.946 746.0898 320.112 756.8898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 5 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://linkedin.com/in/pablo-da-silva-caldeira-5321a7321)
->> /Border [ 0 0 0 ] /Rect [ 54.189 734.5898 254.763 745.3898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057linkedin\056com\057in\057pablo\055da\055silva\055caldeira\0555321a7321)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 54.189 734.5898 254.763 745.3898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 6 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://github.com/PabloCaldeira)
->> /Border [ 0 0 0 ] /Rect [ 262.107 734.5898 365.148 745.3898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057PabloCaldeira)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 262.107 734.5898 365.148 745.3898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 7 0 obj
 <<
 /A <<
-/S /URI /Type /Action /URI (https://pablocaldeira.github.io)
->> /Border [ 0 0 0 ] /Rect [ 372.492 734.5898 462.537 745.3898 ] /Subtype /Link /Type /Annot
+/S /URI
+/Type /Action
+/URI (https\072\057\057pablocaldeira\056github\056io)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 372.492 734.5898 462.537 745.3898 ]
+/Subtype /Link
+/Type /Annot
 >>
 endobj
 8 0 obj
 <<
-/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R ] /Contents 13 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 
-  /Trans <<
-
->> /Type /Page
+/Length 9575
 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.189 771.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 3 Tm /F2 21 Tf 24 TL (Pablo da Silva Caldeira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 758.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (T\351cnico de Suporte e Infraestrutura de TI | Estudante de An\341lise e Desenvolvimento de Sistemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 756.8898 cm
+Q
+q
+1 0 0 1 54.189 745.3898 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .266667 .266667 .266667 rg (Vila Velha \226 ES | \(27\) 98882-7519 | ) Tj .121569 .227451 .372549 rg (pablow2.caldeiras@gmail.com) Tj .266667 .266667 .266667 rg ( | CNH A/B \(EAR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 733.8898 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .121569 .227451 .372549 rg (linkedin.com/in/pablo-da-silva-caldeira-5321a7321) Tj .266667 .266667 .266667 rg ( | ) Tj .121569 .227451 .372549 rg (github.com/PabloCaldeira) Tj .266667 .266667 .266667 rg ( | ) Tj .121569 .227451 .372549 rg (pablocaldeira.github.io) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 711.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (RESUMO PROFISSIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 710.1898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 635.1898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.6 Tm /F1 9.4 Tf 12 TL (T\351cnico de suporte e infraestrutura de TI com experi\352ncia em atendimento N1/N2, redes locais, CFTV e) Tj T* (monitoramento de sistemas, certificado pela Cisco Networking Academy em IT Customer Support Basics e) Tj T* (Operating Systems Support e cursando An\341lise e Desenvolvimento de Sistemas no IFES \(conclus\343o prevista para) Tj T* (o 2\272 semestre de 2028\). Desenvolve scripts em Python e consultas em SQL para automatizar triagem de) Tj T* (chamados, monitoramento de rede e relat\363rios de SLA, com projetos publicados no GitHub. Tem interesse em) Tj T* (automa\347\343o, an\341lise de dados e IA aplicada \340 melhoria de processos de TI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 613.1898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (OBJETIVO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 611.4898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 596.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 9.4 Tf 12 TL (Vaga de est\341gio ou j\372nior em Suporte T\351cnico, Service Desk, Infraestrutura de TI ou Desenvolvimento de Sistemas.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 574.4898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (FORMA\307\303O ACAD\312MICA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 572.7898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 557.7898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Tecnologia em An\341lise e Desenvolvimento de Sistemas \(EaD\)) Tj /F1 9.4 Tf ( \226 Instituto Federal do Esp\355rito Santo \(IFES\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 546.7898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2026 \226 previs\343o de conclus\343o: 2\272 semestre de 2028) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 524.7898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (CURSOS COMPLEMENTARES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 523.0898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 508.0898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Cisco Networking Academy:) Tj /F1 9.4 Tf ( IT Customer Support Basics e Operating Systems Support \(conclu\355dos 10/2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 495.5898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Santander Open Academy:) Tj /F1 9.4 Tf ( Python \(8h\), Introdu\347\343o \340 Ci\352ncia de Dados \(6h\) e Domine a IA com Gemini \(2h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 471.0898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 14.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Seguran\347a da Informa\347\343o / Ciberseguran\347a) Tj /F1 9.4 Tf ( \226 Santander Open Academy \(10/2026 \226 previs\343o de conclus\343o:) Tj T* (01/2027\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 458.5898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Santander Excel com IA e Claude) Tj /F1 9.4 Tf ( \226 Santander Open Academy \(em andamento\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 436.5898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (EXPERI\312NCIA PROFISSIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 434.8898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 419.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Agente de Preven\347\343o e Perda \(Monitoramento e Tecnologia\) \226 JETSHR Ltda \(JET\), Serra \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 408.3898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (01/2025 \226 08/2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 383.3898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Monitorei em tempo real a frota de patinetes e bicicletas el\351tricas por aplicativo de gest\343o e plataformas de) Tj T* (geolocaliza\347\343o, mantendo o acompanhamento cont\355nuo dos ativos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 358.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Analisei dados de coordenadas para localizar ve\355culos em casos de perda de sinal, furto ou roubo, apoiando a) Tj T* (recupera\347\343o dos equipamentos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 346.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Orientei colaboradores no uso do aplicativo, esclarecendo d\372vidas operacionais como suporte ao usu\341rio interno.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 330.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Instalador e Reparador de Redes \226 N\355vel I \(FTTH\) \226 Supernet Mais Telecomunica\347\365es, Vila Velha \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 319.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2024 \226 10/2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 294.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Instalei e ativei internet por fibra \363ptica \(FTTH\) em clientes residenciais, configurando roteadores e equipamentos) Tj T* (ONT/ONU para a entrega do servi\347o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 282.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Instalei e configurei c\342meras de seguran\347a, DVR e NVR, incluindo a passagem de cabos de rede e coaxiais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 266.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Assistente Administrativo e Suporte de TI \226 Clube de Tiro de Vila Velha, Vila Velha \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 255.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2021 \226 08/2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 242.8898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Prestei suporte t\351cnico N1 e N2 a clientes e colaboradores, resolvendo incidentes de hardware, software e rede.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 230.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Realizei manuten\347\343o preventiva e corretiva de computadores, mantendo as esta\347\365es de trabalho operacionais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 205.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Mantive a rede local que sustentava o sistema \(site e aplicativo\) da empresa, assegurando a disponibilidade dos) Tj T* (servi\347os.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 193.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Mantive e dei suporte ao sistema de c\342meras de seguran\347a \(CFTV\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 180.8898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Apoiei as rotinas administrativas da empresa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 158.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PROJETOS \(GITHUB\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 157.1898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 141.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Triagem de chamados com IA \226 Python, API de LLM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 117.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.6 Tm /F1 9.4 Tf 12 TL (Chamados de suporte chegam em texto livre e exigem triagem manual. Desenvolvi um prot\363tipo que l\352 o chamado,) Tj T* (classifica tipo e prioridade e sugere a primeira resposta ao t\351cnico, automatizando a triagem inicial.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 102.1898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Monitor de rede com alertas \226 Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 66.18976 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26.6 Tm /F1 9.4 Tf 12 TL (Falhas em equipamentos e c\342meras IP eram percebidas s\363 quando algu\351m reclamava. Desenvolvi um script que) Tj T* (testa a conectividade dos dispositivos e envia alerta por mensagem quando algum fica offline, antecipando a) Tj T* (detec\347\343o de falhas.) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 9 0 obj
 <<
-/Contents 14 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 12 0 R /Resources <<
-/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
->> /Rotate 0 /Trans <<
-
->> 
-  /Type /Page
+/F1 10 0 R
+/F2 11 0 R
 >>
 endobj
 10 0 obj
 <<
-/PageMode /UseNone /Pages 12 0 R /Type /Catalog
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 11 0 obj
 <<
-/Author (Pablo da Silva Caldeira) /CreationDate (D:20261029051510+00'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20261029051510+00'00') /Producer (ReportLab PDF Library - \(opensource\)) 
-  /Subject (\(unspecified\)) /Title (Curr\355culo \205 Pablo da Silva Caldeira) /Trapped /False
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
 >>
 endobj
 12 0 obj
 <<
-/Count 2 /Kids [ 8 0 R 9 0 R ] /Type /Pages
+/Contents 16 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Parent 2 0 R
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
 >>
 endobj
 13 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 3211
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1182
 >>
 stream
-Gau`U=a/Rl&q801W(/t*?mHn]q_WuaKR7P)"l_<K]JQA!SOdLiL#h)H5CU=]/]\<c'.;i8S,ca(C]3P!C5^g@ZcrGU5kJqck8+n:2D)CKF]oeh?IF)ok3Es:J(!_kXT!`r4fd-%&,LMY2d;Sb\_R:oCqJ;=/S[:/g[,Ctg:b=[<k4&Sb5`L6A6Z]tD3f*FMm]a&,A<eKK:n@r2c<*(N0^)Mq(LV(0DmsI_<k;mYe0\^U\g\X7Bg!6-3U\lo69E_(bq=,a0iQVH&tJC,2MQ5OX+WRDBg=b,YF7W&q"UXU&WP#:=>+-nHc9+_j/]UHkl5\mq"&fKD#g*OC=<SVW'uJ,-KOs>O(k5m>fqA8sLLIbHgp7dc`Vtj\FQa)E5eTF<g`g5qC^XdWbf+<Xl[M3ho!Uhm_M:>\ek*7dST!VT,35ps!]%\aSO-mfK3\QD]B%h']#6qP3:F)P4^]hW*RBF]N9(a/O=_H"M:fG[H/3j@4hSmC<SMNA>E2ibcp0ppSQ6Xm=W*ki';>W)RQ<SP!eK[Fs"S^n%]Zl/G0d6L\$iQ.!'p[=0I'bET=$Vpp+,piJBglhTmVZ<0e4e)=lO#]9Pl7-N#W4RqT+=lpg_KP#dc3dp)7T\%-nT,*KkhK@Vrl>:V6^,fQ3eL_nQ^^.G-Gk_7^iY!Ea@gE+UP5N%\Oht=GkUAeQ+Ha`aPN0O03hP,#MW@7H`9pNCP=?A3)j5o?)M&AuU*EMZ8Xq"sP<9^/C9'J%dCf$\8Y\+;F<De40:%USM-,$Xm3V=NUghD.Q,ts*I8Ss`L3QW$Im\Z<NFEK;b4'(,(X=GY1q<U&X;[Z?4[4qrStg!AaTERrZkos%-@9=uCl2f>7P]L.\*a1[XE@eGW,h5nC7iGGe+MV?XU\K#*QG(N#]k.Yf4DCp8>31We3>.O,Z8*,RonFW'`j6p'0WQ@gR@oT(Wjha3g%i:-9#&3b@/kEDBJ,h1=<=3](V,CNNsX*ne%9X9C/I)rK3&l7R8X6[-nk?1eAZ]LikXg!S!8UM7m%&OR%#B7m@*02,rLhZ+#L2nUcUn<aEji/Z5$m0@&;)]0F?Zaj$o9?`V`QD5le1\s:ef:XtYsH6[UQP__8A_bOpo.=GMgPYgVc6rBPia/!V$6:M4AR?7HsI(\rYR3rWAelQam;mk;:I<@96?O^(3)e%?AAi(J:hle$C^7("8oqL*@hX>NXgT.FTR+F)pYthju$6K@`V&*lRmkW+72B%-1M"`oXW5M(K@lKT*:/lg-V$iq],^]Z4NoN;#mm_g6=pSGReR1eG-R!B*>;b<El).fT/D."CUh(P!m[jRp]:#T8IV)]n1$D\JlQ7LiZrUGD;\f&GJN*E^?d'9BRU'3+Nj$IOjUfDF?3mIZrd>sAmT3Gmk[@JB_J104iYZYcX4K/U6hKZ5eha&nFQGXtM'kr9;+<PkZ`7oN9j#o#@qX`.gfI=DP6TeCWmCAo/2[1_U#pVP?T%\hX"st3,gr0hXI,k)_D3E?6<q8a<HH^SiXJY2*N2eti$ul,qLc_)`=:#X1[KaKogEblci%P[(%4=t+h9u9?ju?-mW)0*FB%3+F:P_115[U.SHtb+N=?9V@8`.--/iNAr'p,mL-qI/\q)a<mRc;\*0-@BnjU-P5ADA(B]1:JK$R9IkuO$t3EhICF$6*j\2$iM:uXt`U5m^%p11oT1HX0\1/U$MZ?h4.K=kgL=aSsAmUSK^\OOrfn/0Zb+sU^1NN5,d*$hO8m`9/'1sjLda#REPk'?l6J,gCDb.0pBOT>@*0.b*i3S\HFX>7D1+uk#6n_)-I!mG.LYjO,aQgEi=QAQ%SR*]07_#_4][#K0j[1qhf6CCC46.X1WShEeojYQ^$lf@"0l;lc3,jJd!A!bSUj39_J-=MF_gQE1=G#Feq"+%1Do+UUu$k4Ld5CpK'MsrWK5JS]+l5$8L!T7khWi++eSQXkMe%!:l0_87h$YSs.7iN>?Ko<8qZnOa5#KaQ&WNT$k$EIdBlqJssmN'J.Bq%SKkt!"hY.7]jCW-`BPs`ke,eXnq<Q^!Z+MXdgT:,6f7KZ"@&Wo;2ga?o]ZMBqXMGZ[U;SH6Xo/?qMdlsZaX&4_Z-9=!0(Jr\9bD$tCK4<#=<o-b9'Im_]fB'Y6n2a5_/9L>`(EVjf@lWjJ"T:%$EUt<#ec`N;QgAqq^>U.r^+i/5Aa^^;X!WA%MrjM>!H8Ei-1[,"=IZ/Z,rA6AF6;oX\h\0O_f9Lp;F']C)1b$*K64ET1J6&o'>Y`3?7@ZdQS@\B'Z$+e(1:a/ZE7;OrG]?n5(TDg*oY'09n^O%a]K^Q_)HZ5#&r9G6c'CmJ52M&Y.TsBAW"d1bOaEZ;a-*`gl*M>*>#557pss"a/.V$?R88oego84N.oV:qA9>*<+Vk"H@I`k_pb*#'8?^d<!KS"I2nT;2l(e*RBq0BHtUpZ>G9f"8TkSR1DXOO1>HhIJBg-T@`O+kCj_H>?[fT3/uZi*\msn$9GZ?bqs1T8Wfdmj<eQK].LU`A'S5qrN:[93-cZPheDb/H&Kt_oah&:=8)H%^IQ<K$;OiUA(`[QHU<PW]KdOcbS+&AZJuV"tJFft,:NOVt!2]bj8WtV;hA^'cBGAGd;'aD1_^'h^RM<ai8J;an,j2Ehn?WDa[IA,-S\eKINOJ^Vk^4[YAa\+Y()W'"?W0-H0psL$Hn^YSAcS?2AWBZKe,W%QiUJ#6(F(M_19uFB(f/+tYhleY5o+^Z?@h2_pt"3?)Or)?^GT1%lS&[F.^LQ4_U3?9Md\5%-<ctjldp'i$8)`QBV?827i;Kn"jsO5194CN[U+g&#Q6;n`mK40a.2\!eVD9;j/7+oo)Qu$rPhc-X(/QK5@=AT&!+G^Bo/f4g#T8,_s7UnF*W%2X01!R($Kc)Ns[$[LSWcYW)8X6W8H#"q!)6@?%,j+H?"8Oi$nTHZ(Ri@*6+Dq\jW7"AIRP+eHUE^l8Hi@7kXlm^k\Xp*p1?sV5"GE=IPe>(mAnri1k:p5^Ua'Q,pY7EY<IV>0HuE&.gQ)ZKTo\Ctl*UBR[gpGtVLB.<[)k>/X-^`M^*kFC"l2n3&'dpQQaQ:iEWQf.-`q4307h-@?$QiHfN]3k(J^"ZL"Yo63=A[K>Xnk6->6qqfTCHeGU!)\Zpj_TYu*^l&id1Z1d*i2Ha4:O#\[[u=boO>17?Q2Le?!MQu,?\OZ(AeXDpT=YR,7cJ0ZgQo3(qVQKS^%ic<Stg?~>endstream
+Gau0BgN)%,&:N/3m%`@pd,J?rRjq(91:fFhlb)]j,%2?@#q,df-i*Tk^kcDu.I>"%i=(JX?ubo,3=@f#_TO\.X9A;CJ_Pk\NXNrB354cIZ@[?WpbZs(N=:3h),D@nHaYl)N,]X4*1<Gi0YmKZ)q),=84j<S_SdLbLoqc^Lr15b8<nLp-^as4=/&AOhl0^)+K#dSVNAB,#k<\8"V4t?B>JL/q$WAC1meeur>SQekll_HKaf42&buk[K4bRtMb)6YE)L@#7nLE%Khk4]F%4BOJoFaQ'.=$f859/iO$I@9#oi<2UARFo0+@-/J.raY"?t?M1;Qsr<!7k8AM_Q%8P*r-J.(!ChW1<p0,A)oaQc)&5G?0`ngKnI:>nGarq[59@?MamUnkYtFt[Q9e03([>UKe)@(U=;#7fBmj9GVE6=#4B?(I+,7N+EWj(u>VQm\lr\=;/l)M<K\At.mu)YZT*m-m*$#[VMhql?*-mfqPM.)@!\p374(pejA)-+Z2'6pJl7BVH)*UK+(JPD!>R@f0&d"6JflP=7u*_f+hIi&u?/E@0ADZ5VEQ-gOc?_(:V[^>-UtGR`J#Z9Nna7iFZM`CCY47Yqqc(0W'j<(A0LEKHtP_#b<64/1`g:E;/>PFFJIq*J+4Ch5A?[EVO"\A\,TR4)M?YV\XHX0qVQGZCg$YBn/oc6DulS1U\(`Zml-=40_%U(@Q!/sZ2P_j]TP^><@:WI/+leMdH^65-B!Aa8>f9/eO4.OjY26.N<g/`:";af&+3V+8s3<!(KV6:q!okUVo69_fJF3PF\%5CA*XA#:_lE=0Vr]1BpE-gXan*uWDDX$W<53f_b)C(<(&1e.GS(T9RtFeCgb;dCQdT-Q_*AR3iL>X5lhDCjUZ.2G0H/AZLngho'#>4BK(;Rbl:46jhAHnUZD5/#ABF\du&"LOkDd@62@eZAe%G^@.o\@)M@>0okc0V9Sm$TZHIaWmOu_/>*@;QtPq2TLgAjC?F*mVumUk&Ju\g\$%:p:NeAT=-VpfEJctD8E`1M*@;Vc=kV>W@e:_G@G-;lqH`iA(:2MgUF9GB!L0oVl;Vlp"a!sKAOOIoC[Kp9R$*bI4H:sm)f:9D[#0o'E-W>lcPp`NiAf3CsNHC9cQ5YOdbag$Nd[t?m5&*UW)-gTaD;MB0?9aduNkD!EJ=G#oNRB2X[KR~>
+endstream
 endobj
 14 0 obj
 <<
-/Filter [ /ASCII85Decode /FlateDecode ] /Length 1182
+/Author (Pablo da Silva Caldeira)
+/CreationDate (D\07220261029051510\05300\04700\047)
+/Creator (\050unspecified\051)
+/Keywords ()
+/ModDate (D\07220261029051510\05300\04700\047)
+/Producer (ReportLab PDF Library \055 \050opensource\051)
+/Subject (\050unspecified\051)
+/Title (Curr\355culo \205 Pablo da Silva Caldeira)
+/Trapped (\057False)
+>>
+endobj
+15 0 obj
+<<
+/Length 9624
 >>
 stream
-Gau0BgN)%,&:N/3m%`@pd,J?rRjq(91:fFhlb)]j,%2?@#q,df-i*Tk^kcDu.I>"%i=(JX?ubo,3=@f#_TO\.X9A;CJ_Pk\NXNrB354cIZ@[?WpbZs(N=:3h),D@nHaYl)N,]X4*1<Gi0YmKZ)q),=84j<S_SdLbLoqc^Lr15b8<nLp-^as4=/&AOhl0^)+K#dSVNAB,#k<\8"V4t?B>JL/q$WAC1meeur>SQekll_HKaf42&buk[K4bRtMb)6YE)L@#7nLE%Khk4]F%4BOJoFaQ'.=$f859/iO$I@9#oi<2UARFo0+@-/J.raY"?t?M1;Qsr<!7k8AM_Q%8P*r-J.(!ChW1<p0,A)oaQc)&5G?0`ngKnI:>nGarq[59@?MamUnkYtFt[Q9e03([>UKe)@(U=;#7fBmj9GVE6=#4B?(I+,7N+EWj(u>VQm\lr\=;/l)M<K\At.mu)YZT*m-m*$#[VMhql?*-mfqPM.)@!\p374(pejA)-+Z2'6pJl7BVH)*UK+(JPD!>R@f0&d"6JflP=7u*_f+hIi&u?/E@0ADZ5VEQ-gOc?_(:V[^>-UtGR`J#Z9Nna7iFZM`CCY47Yqqc(0W'j<(A0LEKHtP_#b<64/1`g:E;/>PFFJIq*J+4Ch5A?[EVO"\A\,TR4)M?YV\XHX0qVQGZCg$YBn/oc6DulS1U\(`Zml-=40_%U(@Q!/sZ2P_j]TP^><@:WI/+leMdH^65-B!Aa8>f9/eO4.OjY26.N<g/`:";af&+3V+8s3<!(KV6:q!okUVo69_fJF3PF\%5CA*XA#:_lE=0Vr]1BpE-gXan*uWDDX$W<53f_b)C(<(&1e.GS(T9RtFeCgb;dCQdT-Q_*AR3iL>X5lhDCjUZ.2G0H/AZLngho'#>4BK(;Rbl:46jhAHnUZD5/#ABF\du&"LOkDd@62@eZAe%G^@.o\@)M@>0okc0V9Sm$TZHIaWmOu_/>*@;QtPq2TLgAjC?F*mVumUk&Ju\g\$%:p:NeAT=-VpfEJctD8E`1M*@;Vc=kV>W@e:_G@G-;lqH`iA(:2MgUF9GB!L0oVl;Vlp"a!sKAOOIoC[Kp9R$*bI4H:sm)f:9D[#0o'E-W>lcPp`NiAf3CsNHC9cQ5YOdbag$Nd[t?m5&*UW)-gTaD;MB0?9aduNkD!EJ=G#oNRB2X[KR~>endstream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.189 771.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 3 Tm /F2 21 Tf 24 TL (Pablo da Silva Caldeira) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 758.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.5 Tm /F1 10.5 Tf 13 TL (T\351cnico de Suporte e Infraestrutura de TI | Estudante de An\341lise e Desenvolvimento de Sistemas) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 756.8898 cm
+Q
+q
+1 0 0 1 54.189 745.3898 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .266667 .266667 .266667 rg (Vila Velha \226 ES | \(27\) 98882-7519 | ) Tj .121569 .227451 .372549 rg (pablow2.caldeiras@gmail.com) Tj .266667 .266667 .266667 rg ( | CNH A/B \(EAR\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 733.8898 cm
+q
+BT 1 0 0 1 0 2.5 Tm 11.5 TL /F1 9 Tf .121569 .227451 .372549 rg (linkedin.com/in/pablo-da-silva-caldeira-5321a7321) Tj .266667 .266667 .266667 rg ( | ) Tj .121569 .227451 .372549 rg (github.com/PabloCaldeira) Tj .266667 .266667 .266667 rg ( | ) Tj .121569 .227451 .372549 rg (pablocaldeira.github.io) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 711.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (RESUMO PROFISSIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 710.1898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 635.1898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 62.6 Tm /F1 9.4 Tf 12 TL (T\351cnico de suporte e infraestrutura de TI com experi\352ncia em atendimento N1/N2, redes locais, CFTV e) Tj T* (monitoramento de sistemas, certificado pela Cisco Networking Academy em IT Customer Support Basics e) Tj T* (Operating Systems Support e cursando An\341lise e Desenvolvimento de Sistemas no IFES \(conclus\343o prevista para) Tj T* (o 2\272 semestre de 2028\). Desenvolve scripts em Python e consultas em SQL para automatizar triagem de) Tj T* (chamados, monitoramento de rede e relat\363rios de SLA, com projetos publicados no GitHub. Tem interesse em) Tj T* (automa\347\343o, an\341lise de dados e IA aplicada \340 melhoria de processos de TI.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 613.1898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (OBJETIVO) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 611.4898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 584.4898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.6 Tm /F1 9.4 Tf 12 TL (Vaga de est\341gio ou j\372nior em Suporte T\351cnico, Infraestrutura de TI ou Desenvolvimento de Sistemas, com) Tj T* (interesse em automa\347\343o e an\341lise de dados.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 562.4898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (FORMA\307\303O ACAD\312MICA) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 560.7898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 545.7898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Tecnologia em An\341lise e Desenvolvimento de Sistemas \(EaD\)) Tj /F1 9.4 Tf ( \226 Instituto Federal do Esp\355rito Santo \(IFES\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 534.7898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2026 \226 previs\343o de conclus\343o: 2\272 semestre de 2028) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 512.7898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (CURSOS COMPLEMENTARES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 511.0898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 496.0898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Cisco Networking Academy:) Tj /F1 9.4 Tf ( IT Customer Support Basics e Operating Systems Support \(conclu\355dos 10/2026\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 483.5898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Santander Open Academy:) Tj /F1 9.4 Tf ( Python \(8h\), Introdu\347\343o \340 Ci\352ncia de Dados \(6h\) e Domine a IA com Gemini \(2h\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 459.0898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 14.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Seguran\347a da Informa\347\343o / Ciberseguran\347a) Tj /F1 9.4 Tf ( \226 Santander Open Academy \(10/2026 \226 previs\343o de conclus\343o:) Tj T* (01/2027\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 446.5898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+BT 1 0 0 1 11 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Santander Excel com IA e Claude) Tj /F1 9.4 Tf ( \226 Santander Open Academy \(em andamento\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 424.5898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (EXPERI\312NCIA PROFISSIONAL) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 422.8898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 407.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Agente de Preven\347\343o e Perda \(Monitoramento e Tecnologia\) \226 JETSHR Ltda \(JET\), Serra \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 396.3898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (01/2025 \226 08/2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 371.3898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Monitorei em tempo real a frota de patinetes e bicicletas el\351tricas por aplicativo de gest\343o e plataformas de) Tj T* (geolocaliza\347\343o, mantendo o acompanhamento cont\355nuo dos ativos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 346.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Analisei dados de coordenadas para localizar ve\355culos em casos de perda de sinal, furto ou roubo, apoiando a) Tj T* (recupera\347\343o dos equipamentos.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 334.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Orientei colaboradores no uso do aplicativo, esclarecendo d\372vidas operacionais como suporte ao usu\341rio interno.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 318.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Instalador e Reparador de Redes \226 N\355vel I \(FTTH\) \226 Supernet Mais Telecomunica\347\365es, Vila Velha \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 307.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2024 \226 10/2024) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 282.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Instalei e ativei internet por fibra \363ptica \(FTTH\) em clientes residenciais, configurando roteadores e equipamentos) Tj T* (ONT/ONU para a entrega do servi\347o.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 270.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Instalei e configurei c\342meras de seguran\347a, DVR e NVR, incluindo a passagem de cabos de rede e coaxiais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 254.8898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Assistente Administrativo e Suporte de TI \226 Clube de Tiro de Vila Velha, Vila Velha \226 ES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 243.8898 cm
+q
+.266667 .266667 .266667 rg
+BT 1 0 0 1 0 2.2 Tm /F1 8.8 Tf 11 TL (08/2021 \226 08/2023) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 230.8898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Prestei suporte t\351cnico N1 e N2 a clientes e colaboradores, resolvendo incidentes de hardware, software e rede.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 218.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Realizei manuten\347\343o preventiva e corretiva de computadores, mantendo as esta\347\365es de trabalho operacionais.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 193.8898 cm
+q
+BT 1 0 0 1 1 14.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 14.6 Tm /F1 9.4 Tf 12 TL (Mantive a rede local que sustentava o sistema \(site e aplicativo\) da empresa, assegurando a disponibilidade dos) Tj T* (servi\347os.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 181.3898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Mantive e dei suporte ao sistema de c\342meras de seguran\347a \(CFTV\).) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 168.8898 cm
+q
+BT 1 0 0 1 1 2.6 Tm /F1 10 Tf 12 TL 0 0 0 rg (\177) Tj ET
+0 0 0 rg
+BT 1 0 0 1 11 2.6 Tm /F1 9.4 Tf 12 TL (Apoiei as rotinas administrativas da empresa.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 146.8898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (PROJETOS \(GITHUB\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 145.1898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 129.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Triagem de chamados com IA \226 Python, API de LLM) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 105.6898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.6 Tm /F1 9.4 Tf 12 TL (Chamados de suporte chegam em texto livre e exigem triagem manual. Desenvolvi um prot\363tipo que l\352 o chamado,) Tj T* (classifica tipo e prioridade e sugere a primeira resposta ao t\351cnico, automatizando a triagem inicial.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 90.1898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Monitor de rede com alertas \226 Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 54.1898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26.6 Tm /F1 9.4 Tf 12 TL (Falhas em equipamentos e c\342meras IP eram percebidas s\363 quando algu\351m reclamava. Desenvolvi um script que) Tj T* (testa a conectividade dos dispositivos e envia alerta por mensagem quando algum fica offline, antecipando a) Tj T* (detec\347\343o de falhas.) Tj T* ET
+Q
+Q
+ 
+
+endstream
+endobj
+16 0 obj
+<<
+/Length 2620
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.189 783.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.7 Tm /F2 9.8 Tf 12.5 TL (Relat\363rio autom\341tico de SLA \226 SQL, Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 759.3898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14.6 Tm /F1 9.4 Tf 12 TL (O relat\363rio semanal de prazos dependia de planilha montada \340 m\343o. Desenvolvi uma rotina que consulta os) Tj T* (chamados no banco de dados, calcula os prazos cumpridos e gera o relat\363rio automaticamente.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 737.3898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (COMPET\312NCIAS T\311CNICAS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 735.6898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 720.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Linguagens:) Tj /F1 9.4 Tf ( Python, JavaScript, SQL, HTML5, CSS3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 696.6898 cm
+q
+BT 1 0 0 1 0 14.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Dados e automa\347\343o:) Tj /F1 9.4 Tf ( l\363gica de programa\347\343o, manipula\347\343o de dados, scripts de automa\347\343o, consultas SQL,) Tj T* (integra\347\343o com APIs de LLM, relat\363rios automatizados) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 672.6898 cm
+q
+BT 1 0 0 1 0 14.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Ferramentas e metodologias:) Tj /F1 9.4 Tf ( Git, GitHub, Service Desk, gest\343o de chamados, SLA, troubleshooting, acesso) Tj T* (remoto \(TeamViewer, AnyDesk\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 660.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Sistemas operacionais:) Tj /F1 9.4 Tf ( Windows 10/11, Windows Server, Linux) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 648.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Redes e infraestrutura:) Tj /F1 9.4 Tf ( LAN, roteadores, ONT/ONU, fibra \363ptica \(FTTH\), cabeamento de rede) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 636.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Seguran\347a eletr\364nica:) Tj /F1 9.4 Tf ( CFTV, c\342meras IP e anal\363gicas, DVR, NVR) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 624.6898 cm
+q
+BT 1 0 0 1 0 2.6 Tm 12 TL /F2 9.4 Tf 0 0 0 rg (Em desenvolvimento:) Tj /F1 9.4 Tf ( automa\347\343o com IA, Excel com IA, seguran\347a da informa\347\343o) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 602.6898 cm
+q
+.121569 .227451 .372549 rg
+BT 1 0 0 1 0 2.5 Tm /F2 10.5 Tf 13 TL (INFORMA\307\325ES COMPLEMENTARES) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.189 600.9898 cm
+q
+.7 w
+1 J
+.121569 .227451 .372549 RG
+n 0 0 m 486.8976 0 l S
+Q
+Q
+q
+1 0 0 1 54.189 585.9898 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.6 Tm /F1 9.4 Tf 12 TL (Disponibilidade para in\355cio imediato e para escalas operacionais e plant\365es.) Tj T* ET
+Q
+Q
+ 
+
+endstream
 endobj
 xref
-0 15
+0 17
 0000000000 65535 f 
-0000000061 00000 n 
-0000000102 00000 n 
-0000000209 00000 n 
-0000000321 00000 n 
-0000000505 00000 n 
-0000000711 00000 n 
-0000000893 00000 n 
-0000001074 00000 n 
-0000001315 00000 n 
-0000001520 00000 n 
-0000001590 00000 n 
-0000001909 00000 n 
-0000001975 00000 n 
-0000005278 00000 n 
+0000000015 00000 n 
+0000000083 00000 n 
+0000000149 00000 n 
+0000000385 00000 n 
+0000000581 00000 n 
+0000000817 00000 n 
+0000001014 00000 n 
+0000001210 00000 n 
+0000010837 00000 n 
+0000010880 00000 n 
+0000010988 00000 n 
+0000011101 00000 n 
+0000011302 00000 n 
+0000012577 00000 n 
+0000012937 00000 n 
+0000022614 00000 n 
 trailer
 <<
-/ID 
-[<4b15fe08286b0907604f5877bdf22b14><4b15fe08286b0907604f5877bdf22b14>]
-% ReportLab generated PDF document -- digest (opensource)
-
-/Info 11 0 R
-/Root 10 0 R
-/Size 15
+/Size 17
+/Root 1 0 R
+/Info 14 0 R
+/ID [ <4b15fe08286b0907604f5877bdf22b14> <4b15fe08286b0907604f5877bdf22b14> ]
 >>
 startxref
-6552
+25287
 %%EOF
